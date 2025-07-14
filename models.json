@@ -1,0 +1,15 @@
+{
+    "cuda": [
+        {
+            "repo_id": "Pictorial/liveportrait",
+            "local_path": "models/liveportrait"
+        },
+        {
+            "repo_id": "Pictorial/ultralytics",
+            "local_path": "models/ultralytics",
+            "files": [
+                "face_yolov8n.pt"
+            ]
+        }
+    ]
+}
